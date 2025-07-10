@@ -1,4 +1,6 @@
-# MML - Unsupervised Image Clustering with K-Medoids
+# MML 
+Unsupervised Image Clustering with K-Medoids
+
 
 Implemented partitional clustering using the K-Medoids algorithm to group image data into 3 distinct clusters.
 
